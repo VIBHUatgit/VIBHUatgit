@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on AI projects 
-- 📫 How to reach me gmail: vibhaas.thakur@gmail.com
+- 📫 How to reach me : vibhaas.thakur@gmail.com
 - - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
